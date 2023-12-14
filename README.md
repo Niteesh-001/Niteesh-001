@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niteesh-001
 - 👀 I’m interested in coding
-- 🌱 I completed java
+- 🌱  I’m expertised in java,sql,html,css,javascript,react and angular
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (niteeshkumar1301@gmail.com)
 
